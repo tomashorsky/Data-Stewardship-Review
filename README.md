@@ -9,19 +9,12 @@ The application allows assigned reviewers to evaluate submitted documents, leave
 
 ### Project Background
 
-This project was developed over two semesters as part of a university software engineering course at the Faculty of Information Technology, Czech Technical University in Prague.
-
-Our five-member team worked under the guidance of a faculty mentor, covering the entire software development process from initial analysis and system design to implementation and testing.
+This project was developed over two semesters as part of a university software engineering course at the FIT, CTU in Prague. Our five-member team worked under the guidance of a faculty mentor, covering the entire software development process from initial analysis and system design to implementation and testing.
 
 ### My Contributions
 
 I participated in the system analysis and design phase and was one of two developers responsible for the backend.
 
-My main contributions included:
-- Designing and implementing REST API endpoints using Python and FastAPI
-- Implementing user authentication
-- Writing automated backend tests using pytest
-- Configuring GitLab CI/CD pipelines for automated testing, code analysis, and container builds
 
 ## Tech Stack
 
@@ -37,7 +30,7 @@ My main contributions included:
 - Submission of data management plans through Data Stewardship Wizard
 - Document review and evaluation
 - Comments and discussions between users
-- User authentication
+- User authentication and role-based access control
 - Integration with Data Stewardship Wizard
 
 ## Prerequisites
